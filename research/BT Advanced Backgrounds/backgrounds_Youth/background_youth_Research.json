@@ -1,0 +1,112 @@
+{
+	"Description": {
+		"Id": "background_youth_Research",
+		"Name": "Research Dropship",
+		"Details": "You and several companions recovered a research dropship. <b><color=#ff9900>Faster Drive, +2 Tech Points</color></b>",
+		"Icon": "uixTxrLogo_backgroundExiled",
+		"Cost": 0,
+		"Rarity": 0,
+		"Purchasable": false
+	},
+	"Results": {
+		"Scope": "Company",
+		"Requirements": null,
+		"AddedTags": {
+			"tagSetSourceFile": "",
+			"items": []
+		},
+		"RemovedTags": {
+			"tagSetSourceFile": "",
+			"items": []
+		},
+		"Stats": [
+			{
+				"typeString": "System.Single",
+				"name": "DriveTravelMultiplier",
+				"value": "-0.1",
+				"set": false,
+				"valueConstant": null
+			},
+			{
+				"typeString": "System.Int32",
+				"name": "MechTechSkill",
+				"value": "2",
+				"set": false,
+				"valueConstant": null
+			}
+		],
+		"Actions": [
+			{
+				"Type": "MechWarrior_Fire",
+				"value": "pilot_at_EagleEye",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_AddRoster",
+				"value": "pilot_at_EagleEye",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_Fire",
+				"value": "pilot_at_Scavenger",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_AddRoster",
+				"value": "pilot_at_Scavenger",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_Fire",
+				"value": "pilot_at_Thorne",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_AddRoster",
+				"value": "pilot_at_Thorne",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_Fire",
+				"value": "pilot_at_PanzerAngel",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "MechWarrior_AddRoster",
+				"value": "pilot_at_PanzerAngel",
+				"valueConstant": null,
+				"additionalValues": null
+			},
+			{
+				"Type": "System_ShowRewards",
+				"value": "itemCollection_loot_Research",
+				"valueConstant": null,
+				"additionalValues": null
+			}
+		],
+		"ForceEvents": [
+			{
+				"Scope": "Company",
+				"EventID": "tbone_event_co_BTA_tutorial",
+				"MinDaysWait": 1,
+				"MaxDaysWait": 1,
+				"Probability": 100
+			}
+		],
+		"TemporaryResult": false,
+		"ResultDuration": 0
+	},
+	"BackgroundSection": 2,
+	"UIOrdering": 0,
+	"OptionName": "Research Dropship",
+	"OptionMusicTrigger": "",
+	"OptionDescription": "You and several companions recovered a research dropship.",
+	"BioDescription": "You and several companions recovered a research dropship.\r\n"
+}
