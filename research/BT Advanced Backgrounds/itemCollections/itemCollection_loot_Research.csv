@@ -1,0 +1,24 @@
+itemCollection_loot_Research,Mech Spare Parts,Mech Spare Parts,
+Weapon_TAG_Standard_0-STOCK,Weapon,1,1
+Weapon_Flamer_Flamer_0-STOCK,Weapon,1,1
+Weapon_Laser_LargeLaser_0-STOCK,Weapon,1,1
+Weapon_Laser_MediumLaser_0-STOCK,Weapon,2,1
+Weapon_Laser_SmallLaserER_2-BlazeFire,Weapon,1,1
+Weapon_LRM_LRM5_0-STOCK,Weapon,2,1
+Weapon_LRM_LRM10_0-STOCK,Weapon,1,1
+Ammo_AmmunitionBox_Generic_LRM,AmmunitionBox,2,1
+Weapon_MachineGun_MachineGun_0-STOCK,Weapon,2,1
+Weapon_MachineGun_HeavyMG_0-STOCK,Weapon,1,1
+Ammo_AmmunitionBox_Generic_MG,AmmunitionBox,1,1
+Gear_HeatSink_Generic_Standard,HeatSink,6,1
+Gear_HeatSink_Generic_Double,HeatSink,1,1
+Gear_JumpJet_Generic_Standard,JumpJet,4,1
+vehicledef_DAKOTA_TRANSPORT,Mech,1,6
+vehicledef_DAKOTA_Scout,Mech,1,1
+vehicledef_DAKOTA_Explorer,Mech,1,1
+vehicledef_DAKOTA_Surveyor,Mech,1,1
+Weapon_LRM_LRM4_BA_Clan,Weapon,3,1
+Weapon_SRM_SRM5_Advanced_BA_Clan,Weapon,3,1
+Weapon_Bearhunter_Superheavy_AC_BA_Clan,Weapon,3,1
+Weapon_Gauss_AP_BA_Clan,Weapon,3,1
+Weapon_Laser_TAGLight_BA,Weapon,3,1
