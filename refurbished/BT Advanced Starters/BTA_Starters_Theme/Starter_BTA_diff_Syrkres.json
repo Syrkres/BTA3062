@@ -1,0 +1,33 @@
+{
+	"TargetID": "CareerDifficultySettings",
+	"Instructions": [
+		{
+			"JSONPath": "$.difficultyList[?(@.ID== 'diff_startingplanet')].Options",
+			"Action": "ArrayAdd",
+			"Value": {
+				"ID": "diff_Refurbished",
+				"Name": "Refurbished Mechs",
+				"TelemetryEventDesc": "",
+				"DifficultyValue": 0,
+				"CareerScoreModifier": 0.4,
+				"DifficultyConstants": [
+					{ 
+						"ConstantType": "CareerMode",
+						"ConstantName": "StartingSystems",
+						"ConstantValue": "Altair" 
+					},
+					{
+						"ConstantType": "CareerMode",
+						"ConstantName": "FactionReputation",
+						"ConstantValue": "WordOfBlake:20"
+					},
+					{
+						"ConstantType": "CareerMode",
+						"ConstantName": "StartingRandomMechLists",
+						"ConstantValue": "itemCollection_Mechs_Refurbished_Heavy,itemCollection_Mechs_Refurbished_Medium,itemCollection_Mechs_Refurbished_Medium2,itemCollection_Mechs_Refurbished_Light,itemCollection_Mechs_Refurbished_Light2,itemCollection_Mechs_Refurbished_BattleArmor,itemCollection_Mechs_Refurbished_BattleArmor,itemCollection_Mechs_Refurbished_BattleArmor,itemCollection_Mechs_Refurbished_BattleArmor"
+					}
+				]
+			}
+		}
+	]
+}
