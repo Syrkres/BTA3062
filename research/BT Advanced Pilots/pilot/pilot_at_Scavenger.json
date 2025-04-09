@@ -1,0 +1,45 @@
+{
+	"Description": {
+		"Id": "pilot_at_Scavenger",
+		"Name": "Scavenger",
+		"FirstName": "Jessica",
+		"LastName": "Voss",
+		"Callsign": "Scavenger",
+		"Gender": "Female",
+		"Faction": "NoFaction",
+		"Age": "33",
+		"Details": "Great Scout",
+		"Icon": "vehiclePilot02"
+	},
+	"BaseGunnery": "2",
+	"BonusGunnery": 0,
+	"BasePiloting": "4",
+	"BonusPiloting": 0,
+	"BaseGuts": "3",
+	"BonusGuts": 0,
+	"BaseTactics": "4",
+	"BonusTactics": 0,
+	"ExperienceUnspent": 1600,
+	"ExperienceSpent": 3400,
+	"Injuries": 0,
+	"Health": 3,
+	"LethalInjury": false,
+	"Incapacitated": false,
+	"Morale": 0,
+	"Voice": "f_kamea",
+	"abilityDefNames": [],
+	"AIPersonality": "Undefined",
+	"PilotTags": {
+		"items": [
+			"pilot_tech",
+			"pilot_spacer",
+			"name_Scavenger",
+            "pilot_vehicle_crew",
+            "can_pilot_generic_vehicle"
+		],
+		"tagSetSourceFile": ""
+	},
+	"PilotCost": 0,
+	"IsRonin": true,
+	"IsVanguard": true
+}
