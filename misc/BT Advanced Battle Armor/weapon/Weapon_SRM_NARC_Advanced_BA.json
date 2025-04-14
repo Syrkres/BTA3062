@@ -68,7 +68,7 @@
 	"PrefabIdentifier": "narc",
 	"BattleValue": 0,
 	"InventorySize": 2,
-	"Tonnage": 0.3,
+	"Tonnage": 0.1,
 	"AllowedLocations": "All",
 	"DisallowedLocations": "All",
 	"CriticalComponent": false,
