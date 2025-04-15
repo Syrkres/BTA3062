@@ -11,4 +11,7 @@ This repository is for my BTA 3062 mod files.
     - Dakota Surveyor
 - **Misc:** Collection of files which doesn't fall under other mod collections
     - BA Narc
+    - BA Rotary ER Small Laser
+    - BA Daitengu, an greater Tengu
+    - BA Mephit, an enhanced Elemental
 
