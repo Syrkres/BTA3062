@@ -8,5 +8,5 @@ The following directory are for a collection of files that don't fall currently 
 
 
 ### Battle Armor
-- **Daitengu:**  A greater Tengu 10 tons, includes the new NARC 
-- **Mephit:** An enhanced Elemental 10 tons, includes the new NARC 
+- **Daitengu:**  A greater Tengu 10 tons, includes the new NARC (chassis and mech defs)
+- **Mephit:** An enhanced Elemental 10 tons, includes the new NARC  (chassis and mech defs)
