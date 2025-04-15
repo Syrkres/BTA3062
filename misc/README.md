@@ -7,3 +7,6 @@ The following directory are for a collection of files that don't fall currently 
 - **Weapon_Laser_RotaryERSLaser:** Battle Armor version of the Blaze Rotary ER Small Laser
 
 
+### Battle Armor
+- **Daitengu:**  A greater Tengu 10 tons, includes the new NARC 
+- **Mephit:** An enhanced Elemental 10 tons, includes the new NARC 
